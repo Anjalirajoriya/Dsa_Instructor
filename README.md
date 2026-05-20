@@ -1,6 +1,6 @@
 #  DSA Instructor AI
 
-An AI-powered Data Structures & Algorithms tutor built with Flask + Groq API (LLaMA 3.3 70B). Get step-by-step explanations, code examples, dry runs, and Big O complexity analysis — all in a sleek dark-mode chat interface.
+An AI-powered Data Structures & Algorithms tutor built with Flask + Groq API (LLaMA 3.3 70B). Get step-by-step explanations, code examples, dry runs, and Big O complexity analysis — in chat interface.
 
 ##  Features
 
